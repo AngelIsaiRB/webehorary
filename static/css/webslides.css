@@ -193,7 +193,8 @@ big {
   font-size: 1.25em; }
 
 hr {
-  border: 0;
+ 
+  border: 3px;
   clear: both;
   display: block;
   height: 1px;
@@ -2530,10 +2531,11 @@ cite span {
       .wall:before {
         left: .8rem;
         top: -1.6rem; } }
-
+        
 /*=========================================
 12. Avatars - uifaces.com
 =========================================== */
+
 cite img,
 img[class*='avatar-'] {
   display: inline-block;
